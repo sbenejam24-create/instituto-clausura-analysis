@@ -42,7 +42,7 @@ Para contrastar la hipótesis con evidencia empírica, se recurrió a los regist
 ### A. La Autopista por las Bandas: Generación de Peligro
 El análisis de volumen ratificó la dependencia del juego exterior:
 
-![Generación de Peligro](generación_de_peligro.png)
+![Generación de Peligro](img/generación_de_peligro.png)
 
 * **Jeremías Lázaro** comanda la gestación pura por carriles internos con **2.62 SCA P90** y **5.51 centros P90**.
 * **Giuliano Cerato** representa la gran anomalía táctica: como lateral derecho, se ubicó como segundo máximo generador con **1.94 SCA P90** (explicando cerca del 18% del peligro total del equipo) y **5.73 centros P90**.
@@ -55,7 +55,7 @@ El análisis de volumen ratificó la dependencia del juego exterior:
 ### B. La Paradoja de la Conversión: xG vs. Goles Reales
 Al contrastar la generación con la efectividad de cara al arco, la anomalía del puntero quedó al descubierto:
 
-![Rendimiento Ofensivo](rendimiento_ofensivo.png)
+![Rendimiento Ofensivo](img/rendimiento_ofensivo.png)
 
 * **Matías Tissera (Déficit de finalización):** El modelo táctico lo abasteció con continuidad. Acumuló **3.71 xG** (la cifra más alta del plantel por amplia diferencia), pero convirtió solo **1 gol**. Su saldo negativo de **-2.71 Delta xG** no se debió a desconexión del circuito, sino a un bache de puntería en la definición.
 * **Giuliano Cerato (Sobre-rendimiento extraordinario):** El goleador del equipo en 13 fechas fue su lateral derecho, con **4 tantos**. Convirtió a partir de apenas **0.75 xG** acumulado y un 61.5% de puntería al arco, registrando un Delta xG descomunal de **+3.25** sobre la expectativa matemática.
